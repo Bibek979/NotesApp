@@ -358,19 +358,7 @@ public class LoginForm extends javax.swing.JFrame {
                 Error_Disp.setText("Invalid Credentials");
             }
         }
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        
-        
-        
+
         
     }//GEN-LAST:event_jButton1MouseClicked
 
